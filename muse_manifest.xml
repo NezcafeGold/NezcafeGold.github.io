@@ -1,0 +1,68 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dragonsteel.com" resolutions="1x" timestamp="1489550146889">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="87364184" ref="index"/>
+    <file name="master_______-a.css" crc="4263020847" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u4067.php" crc="79194223" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u757-4.png" crc="117932199" ref="index"/>
+    <file name="u777-4.png" crc="268095980" ref="index"/>
+    <file name="u1066.png" crc="85620344" ref="index"/>
+    <file name="u1066-r.png" crc="440673589" ref="index"/>
+    <file name="u1066-m.png" crc="3898676349" ref="index"/>
+    <file name="u971-16.png" crc="320098680" ref="index"/>
+    <file name="u1065_states.png" crc="4109247565" ref="index"/>
+    <file name="u1065_states-r.png" crc="3945311818" ref="index"/>
+    <file name="u1065_states-m.png" crc="470656250" ref="index"/>
+    <file name="1-2.jpg" crc="281788212" ref="index"/>
+    <file name="1-1.jpg" crc="4127992837" ref="index"/>
+    <file name="1-3-u2038-fr.jpg" crc="4124873374" ref="index"/>
+    <file name="1-4.jpg" crc="149421069" ref="index"/>
+    <file name="u2119-4.png" crc="4289030225" ref="index"/>
+    <file name="2-1.jpg" crc="4075094297" ref="index"/>
+    <file name="2-2.jpg" crc="61179069" ref="index"/>
+    <file name="2-3.jpg" crc="454846081" ref="index"/>
+    <file name="2-6.jpg" crc="4066312664" ref="index"/>
+    <file name="u2377-4.png" crc="4199363282" ref="index"/>
+    <file name="4-1.jpg" crc="497077988" ref="index"/>
+    <file name="4-3.jpg" crc="300674862" ref="index"/>
+    <file name="4-4.jpg" crc="210826018" ref="index"/>
+    <file name="4-6.jpg" crc="296713297" ref="index"/>
+    <file name="u2604-4.png" crc="324119366" ref="index"/>
+    <file name="7-1.jpg" crc="4184155131" ref="index"/>
+    <file name="7-2-u2745-fr.jpg" crc="436919086" ref="index"/>
+    <file name="7-4-u2742-fr.jpg" crc="4115207745" ref="index"/>
+    <file name="7-6-u2743-fr.jpg" crc="4024815960" ref="index"/>
+    <file name="u2747-4.png" crc="4026544322" ref="index"/>
+    <file name="u2888-4.png" crc="3851107913" ref="index"/>
+    <file name="6-2.jpg" crc="4183605062" ref="index"/>
+    <file name="6-3.jpg" crc="243647470" ref="index"/>
+    <file name="6-5-u2883-fr.jpg" crc="84729501" ref="index"/>
+    <file name="6-1.jpg" crc="468927708" ref="index"/>
+    <file name="u2972-4.png" crc="4007058871" ref="index"/>
+    <file name="u4083-17.png" crc="425417869" ref="index"/>
+    <file name="u4083-17-r.png" crc="495196438" ref="index"/>
+    <file name="u4083-17-m.png" crc="4234589858" ref="index"/>
+    <file name="u4083-17-fs.png" crc="467801000" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3939232907" seo="true" mt="1489550114805" redirect="true"/>
+</manifest>
